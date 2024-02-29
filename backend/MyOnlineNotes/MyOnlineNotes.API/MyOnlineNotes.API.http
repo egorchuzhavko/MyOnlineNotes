@@ -1,0 +1,6 @@
+@MyOnlineNotes.API_HostAddress = http://localhost:5265
+
+GET {{MyOnlineNotes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

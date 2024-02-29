@@ -1,0 +1,17 @@
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.Application.deps.json
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.Application.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.Application.pdb
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.Core.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.DataAccess.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.DataAccess.pdb
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\bin\Debug\net8.0\MyOnlineNotes.Core.pdb
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.csproj.AssemblyReference.cache
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.AssemblyInfoInputs.cache
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.AssemblyInfo.cs
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.csproj.CoreCompileInputs.cache
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\refint\MyOnlineNotes.Application.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnlineNotes.Application.pdb
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\ref\MyOnlineNotes.Application.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Application\obj\Debug\net8.0\MyOnline.7B997C38.Up2Date

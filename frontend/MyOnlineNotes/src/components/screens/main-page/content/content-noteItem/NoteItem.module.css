@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@700&display=swap');
+/*font-family: 'Arimo', sans-serif;*/
+
+.container {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 15px;
+  padding: 1em;
+  border: 0;
+  cursor: pointer;
+}
+
+.btntext {
+  font-family: 'Arimo', sans-serif;
+}

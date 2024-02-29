@@ -1,0 +1,27 @@
+.shell {
+  background-color: rgb(8, 96, 52);
+  padding-top: 5em;
+  padding-bottom: 2em;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.container h1 {
+  color: white;
+  margin-left: 1.5em;
+}
+.container a {
+  color: white;
+  margin-right: 1.5em;
+  font-size: xx-large;
+}
+
+.container a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

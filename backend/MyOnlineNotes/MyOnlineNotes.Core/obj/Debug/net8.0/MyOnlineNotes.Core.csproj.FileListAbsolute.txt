@@ -1,0 +1,11 @@
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\bin\Debug\net8.0\MyOnlineNotes.Core.deps.json
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\bin\Debug\net8.0\MyOnlineNotes.Core.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\bin\Debug\net8.0\MyOnlineNotes.Core.pdb
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\MyOnlineNotes.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\MyOnlineNotes.Core.AssemblyInfoInputs.cache
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\MyOnlineNotes.Core.AssemblyInfo.cs
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\MyOnlineNotes.Core.csproj.CoreCompileInputs.cache
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\MyOnlineNotes.Core.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\refint\MyOnlineNotes.Core.dll
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\MyOnlineNotes.Core.pdb
+E:\projects\fullstack\MyOnlineNotes\backend\MyOnlineNotes\MyOnlineNotes.Core\obj\Debug\net8.0\ref\MyOnlineNotes.Core.dll

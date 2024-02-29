@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.api\\contracts\\notesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|solutionrelative:myonlinenotes.api\\contracts\\notesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|solutionrelative:myonlinenotes.api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE4C30-6752-4987-A678-B18AFE6C1809}|MyOnlineNotes.DataAccess\\MyOnlineNotes.DataAccess.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.dataaccess\\repositories\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AE4C30-6752-4987-A678-B18AFE6C1809}|MyOnlineNotes.DataAccess\\MyOnlineNotes.DataAccess.csproj|solutionrelative:myonlinenotes.dataaccess\\repositories\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB22669-5E8D-472B-9A19-3218E2DA56D1}|MyOnlineNotes.Application\\MyOnlineNotes.Application.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.application\\services\\notesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB22669-5E8D-472B-9A19-3218E2DA56D1}|MyOnlineNotes.Application\\MyOnlineNotes.Application.csproj|solutionrelative:myonlinenotes.application\\services\\notesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE4C30-6752-4987-A678-B18AFE6C1809}|MyOnlineNotes.DataAccess\\MyOnlineNotes.DataAccess.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AE4C30-6752-4987-A678-B18AFE6C1809}|MyOnlineNotes.DataAccess\\MyOnlineNotes.DataAccess.csproj|solutionrelative:myonlinenotes.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39632420-7D00-45C4-868B-15C7241CB6C5}|MyOnlineNotes.Core\\MyOnlineNotes.Core.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.core\\abstractions\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39632420-7D00-45C4-868B-15C7241CB6C5}|MyOnlineNotes.Core\\MyOnlineNotes.Core.csproj|solutionrelative:myonlinenotes.core\\abstractions\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.api\\contracts\\usersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|solutionrelative:myonlinenotes.api\\contracts\\usersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39632420-7D00-45C4-868B-15C7241CB6C5}|MyOnlineNotes.Core\\MyOnlineNotes.Core.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.core\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39632420-7D00-45C4-868B-15C7241CB6C5}|MyOnlineNotes.Core\\MyOnlineNotes.Core.csproj|solutionrelative:myonlinenotes.core\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|e:\\projects\\fullstack\\myonlinenotes\\backend\\myonlinenotes\\myonlinenotes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0725E-AB90-44A6-8442-F9B366136813}|MyOnlineNotes.API\\MyOnlineNotes.API.csproj|solutionrelative:myonlinenotes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesRequest.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Contracts\\NotesRequest.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.API\\Contracts\\NotesRequest.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Contracts\\NotesRequest.cs",
+              "RelativeToolTip": "MyOnlineNotes.API\\Contracts\\NotesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T17:50:08.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesRepository.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.DataAccess\\Repositories\\NotesRepository.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.DataAccess\\Repositories\\NotesRepository.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.DataAccess\\Repositories\\NotesRepository.cs",
+              "RelativeToolTip": "MyOnlineNotes.DataAccess\\Repositories\\NotesRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:15:52.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesService.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.Application\\Services\\NotesService.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.Application\\Services\\NotesService.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.Application\\Services\\NotesService.cs",
+              "RelativeToolTip": "MyOnlineNotes.Application\\Services\\NotesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:15:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MyOnlineNotes.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:15:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.Core\\Abstractions\\IUsersService.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.Core\\Abstractions\\IUsersService.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.Core\\Abstractions\\IUsersService.cs",
+              "RelativeToolTip": "MyOnlineNotes.Core\\Abstractions\\IUsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:15:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.Core\\Models\\Notes.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.Core\\Models\\Notes.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.Core\\Models\\Notes.cs",
+              "RelativeToolTip": "MyOnlineNotes.Core\\Models\\Notes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:23:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersRequest.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Contracts\\UsersRequest.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.API\\Contracts\\UsersRequest.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Contracts\\UsersRequest.cs",
+              "RelativeToolTip": "MyOnlineNotes.API\\Contracts\\UsersRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:22:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.API\\Controllers\\NoteController.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "MyOnlineNotes.API\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:23:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyOnlineNotes.API\\Program.cs",
+              "ToolTip": "E:\\projects\\fullstack\\MyOnlineNotes\\backend\\MyOnlineNotes\\MyOnlineNotes.API\\Program.cs",
+              "RelativeToolTip": "MyOnlineNotes.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:16:57.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
